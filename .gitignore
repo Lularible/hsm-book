@@ -1,0 +1,24 @@
+# PDF files (not for distribution)
+*.pdf
+
+# Third-party source code (reference only)
+SoftHSMv2/
+pkcs11-spec-v3.1-os.txt
+
+# Build artifacts
+*.o
+*.out
+hsm_test
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
