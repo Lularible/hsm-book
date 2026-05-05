@@ -2,7 +2,7 @@
 
 本文档记录HSM技术书项目的所有重要变更。
 
-格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，
+格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0.html)，
 版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
 ---
@@ -43,7 +43,7 @@
 - **第五章**：从零构建——设计一个轻量级HSM（4节）
   - 5.1 hsm-lite项目概述：教学级PKCS#11实现
   - 5.2 PKCS#11核心接口实现：从代码到理解
-  - 5.3 简化存储与密钥管理：内存模拟设计
+  - 5.3 安全存储与密钥管理：内存模拟设计
   - 5.4 测试程序与编译：验证hsm-lite
 
 - **第六章**：HSM集成实战——从SDK到产品（8节）
