@@ -2,6 +2,10 @@
 
 一本从岩画密码学到 HSM 集成实战的完整开源技术书。
 
+### 实际运行效果
+<img width="910" height="1150" alt="hsm_demo" src="https://github.com/user-attachments/assets/e34e3891-3f12-47b1-b16f-5bcc448db597" />
+
+
 ## 这本书讲了什么
 
 全书 57 节，分六章：
