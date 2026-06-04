@@ -2,7 +2,7 @@
  * @file hsm_lite.c
  * @brief hsm-lite PKCS#11核心实现（精简版）
  * 
- * 教学级实现，约500行代码
+ * 教学级实现，约620行代码
  * 
  * @version 1.0.0
  * @date 2026-04-15
