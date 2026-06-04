@@ -1,14 +1,7 @@
-# PDF files (not for distribution)
-*.pdf
-
-# Third-party source code (reference only)
-SoftHSMv2/
-pkcs11-spec-v3.1-os.txt
-
 # Build artifacts
-*.o
-*.out
-hsm_test
+hsm-lite/*.o
+hsm-lite/*.out
+hsm-lite/hsm_test
 
 # IDE
 .vscode/
